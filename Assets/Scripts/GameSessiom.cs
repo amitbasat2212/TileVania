@@ -56,7 +56,7 @@ public class GameSessiom : MonoBehaviour
 
     private void ResttGameAll()
     {
-          FindObjectOfType<ScenePresist>().ResrstScenePresist(); 
+         FindObjectOfType<ScenePresist>().ResrstScenePresist(); 
         SceneManager.LoadScene(0);
          Destroy(gameObject);
         

@@ -97,9 +97,9 @@ public class PlayerMovment : MonoBehaviour
         myAnimator.SetBool("IsClimbing", playerHasVerticalSpeed);
     }
 
-    private void OnTriggerEnter2D(Collider2D other) {
-        
+   private void OnTriggerExit2D(Collider2D other) {
         Die();
+        
     }
 
     void Die(){
