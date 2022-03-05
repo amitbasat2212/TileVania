@@ -11,7 +11,7 @@ based on coures in Udemy in unity 2d
 
 includes a video of the game itself 
 
-#voice is recommended 
+# voice is recommended 
 
 
 
