@@ -6,7 +6,8 @@ the architecture includes colliders,RigidBody2D,scripts in c#,prefabs,Sprites an
 and animation with animator controller 
 canvas,textMashPro and 
 based on coures in Udemy in unity 2d 
-![tileVania](https://user-images.githubusercontent.com/72205513/156884300-d533520a-a4ce-4d57-8c60-02635a56a4bc.jpeg)
+
+![Tilevania](https://user-images.githubusercontent.com/72205513/156884590-0926d73c-e123-4c92-8b84-6759bdb90a15.jpeg)
 
 
 includes a video of the game itself 
