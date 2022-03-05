@@ -44048,7 +44048,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4908725360050805647, guid: 50fbd9688cedd8c45b8201ba44e3c902, type: 3}
       propertyPath: plaerLives
-      value: 8
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8002180280656347761, guid: 50fbd9688cedd8c45b8201ba44e3c902, type: 3}
       propertyPath: m_RootOrder
